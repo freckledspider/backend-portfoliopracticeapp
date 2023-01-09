@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project 1 - Studio Ghibli Films API",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "https://github.com/freckledspider/project1",
+      "image": "https://i.imgur.com/dB4Dc4h.png"
+    },
+    {
+      "name": "Project 2 - Entolog",
+      "live": "https://entolog.onrender.com/",
+      "git": "https://github.com/freckledspider/entolog",
+      "image": "https://i.imgur.com/iLu1J4O.jpg"
+    }
+  ]
